@@ -147,3 +147,5 @@ pretrained_models.venv/
 petfinder_project/data/raw/
 petfinder_project/data/processed/
 *.zip
+weights_nlp
+weights
